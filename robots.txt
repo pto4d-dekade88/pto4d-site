@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pto4d.pages.dev/sitemap.xml
